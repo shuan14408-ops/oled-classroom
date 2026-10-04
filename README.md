@@ -2,6 +2,8 @@
 
 線上網站：https://shuan14408-ops.github.io/oled-classroom/
 
+[![網站畫面](screenshot.webp)](https://shuan14408-ops.github.io/oled-classroom/)
+
 在瀏覽器上逐格畫出圖案，並一鍵轉成可以在 Arduino 與 OLED 螢幕（SSD1306）上顯示的程式碼。
 
 ## 設計理念
